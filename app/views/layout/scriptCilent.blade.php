@@ -1,0 +1,15 @@
+    <link href="{{ CILENT}}assets/css/themify-icons.css" rel="stylesheet">
+    <link href="{{ CILENT}}assets/css/icomoon.css" rel="stylesheet">
+    <link href="{{ CILENT}}assets/css/pe-icon-7-stroke.css" rel="stylesheet">
+    <link href="{{ CILENT}}assets/css/flaticon.css" rel="stylesheet">
+    <link href="{{ CILENT}}assets/css/bootstrap.min.css" rel="stylesheet">
+    <link href="{{ CILENT}}assets/css/animate.css" rel="stylesheet">
+    <link href="{{ CILENT}}assets/css/owl.carousel.css" rel="stylesheet">
+    <link href="{{ CILENT}}assets/css/owl.theme.css" rel="stylesheet">
+    <link href="{{ CILENT}}assets/css/slick.css" rel="stylesheet">
+    <link href="{{ CILENT}}assets/css/slick-theme.css" rel="stylesheet">
+    <link href="{{ CILENT}}assets/css/swiper.min.css" rel="stylesheet">
+    <link href="{{ CILENT}}assets/css/owl.transitions.css" rel="stylesheet">
+    <link href="{{ CILENT}}assets/css/jquery.fancybox.css" rel="stylesheet">
+    <link href="{{ CILENT}}assets/css/jquery-ui.css" rel="stylesheet">
+    <link href="{{ CILENT}}assets/css/style.css" rel="stylesheet">
